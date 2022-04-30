@@ -2,23 +2,21 @@
 
 # Introduction DE
 
-**What is data engineering?**
+## **What is data engineering?**
 
-1. Data engineering and big data
+### Data engineering and big data
 
-
-
-​		**A Example of these data engineering concepts are implemented:**
+**A Example of these data engineering concepts are implemented:**
 
 ​		A Data workflow as follows: 
 
 ![image-20220430132434932](https://github.com/YimingXu1/DS-notes/tree/main/DataCamp-DE-Python/img/intro1.png)
 
-Data engineers are responsible for the first step of the process: ingesting collected data and storing it, so it's easily accessible and ready to be analyzed.
+​		Data engineers are responsible for the first step of the process: ingesting collected data and storing it, so it's easily accessible and ready to be analyzed.
 
 
 
-​		**A Data engineer's responsibilities:**
+**A Data engineer's responsibilities:**
 
 ​		Ingest data from different sources
 
@@ -30,11 +28,11 @@ Data engineers are responsible for the first step of the process: ingesting coll
 
 
 
-​		**Five Vs of Big Data: ** Volume (how much), Variety (what kind), Velocity (how frequent), Veracity 		(how accurate), Value (how useful).
+**Five Vs of Big Data: ** Volume (how much), Variety (what kind), Velocity (how frequent), Veracity 		(how accurate), Value (how useful).
 
 
 
-2. Data engineering vs. data scientists
+### Data engineering vs. data scientists
 
 ​		
 
@@ -42,13 +40,13 @@ Data engineers are responsible for the first step of the process: ingesting coll
 
 ![image-20220430140441967](https://github.com/YimingXu1/DS-notes/tree/main/DataCamp-DE-Python/img/intro2.png)
 
-3. Data pipeline
+### Data pipeline
 
 
 
 
 
-**How data storage works?**
+## **How data storage works?**
 
 1. Structured vs. Unstructured data
 2. SQL
@@ -56,7 +54,7 @@ Data engineers are responsible for the first step of the process: ingesting coll
 
 
 
-**How to move and process data?**
+## **How to move and process data?**
 
 1. Processing data
 2. Scheduling data
