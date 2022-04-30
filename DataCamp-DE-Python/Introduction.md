@@ -12,7 +12,7 @@
 
 ​		A Data workflow as follows: 
 
-![image-20220430132434932](/Users/yimingxu/wk_space/DS-notes/DataCamp-DE-Python/img/:Users:yimingxu:Library:Application Support:typora-user-images:image-20220430132434932.png)
+![image-20220430132434932](https://github.com/YimingXu1/DS-notes/tree/main/DataCamp-DE-Python/img/intro1.png)
 
 Data engineers are responsible for the first step of the process: ingesting collected data and storing it, so it's easily accessible and ready to be analyzed.
 
@@ -40,7 +40,7 @@ Data engineers are responsible for the first step of the process: ingesting coll
 
 ​		Data scientists intervene on the rest of the workflow, they prepare the data according to their analysis, explore it, build insightful visualizations, and then run experiments or build predictive models. 
 
-![image-20220430140441967](/Users/yimingxu/wk_space/DS-notes/DataCamp-DE-Python/img/:Users:yimingxu:Library:Application Support:typora-user-images:image-20220430140441967.png)
+![image-20220430140441967](https://github.com/YimingXu1/DS-notes/tree/main/DataCamp-DE-Python/img/intro2.png)
 
 3. Data pipeline
 
