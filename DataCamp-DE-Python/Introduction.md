@@ -49,8 +49,42 @@
 ## **How data storage works?**
 
 1. Structured vs. Unstructured data
-2. SQL
+   - structured data
+     - Easy to search and organize
+     - Consistent model, rows and columns
+     - Defined types
+     - Can be grouped to form relations
+     - Stored in relational databases
+     - About 20% of the data is structured
+     - Created and queried using SQL
+   - Semi-structured data
+     - Relatively easy to search and organize
+     - Consistent model, less-rigid implementation: different observations have different sizes 
+     - Different types
+     - Can be grouped, but needs more work
+     - NoSQL databases: JSON, XML, YAML
+   - Unstructured data
+     - Does not follow a model, can't be contained in rows and columns
+     - Difficult to search and organize
+     - Usually text, sound, pictures or videos
+     - Usually stored in datalakes, can appear in data warehouses or databases
+     - Most of the data is unstructured
+     - Can be extremely valuable
+2. SQL databases
+   1. - Structured Query Language
+      - Industry standard for Relational Database Management System (RDBMS)
+      - Allows you to access many records at once ,and group, filter or aggregate them
+      - Close to written English, easy to write and understand
+      - Data engineers use SQL to create and maintain databases
+      - Data scientists use SQL to query( request information from) databases
+   2. Several implementations
+      - SQLite
+      - MySQL
+      - PostgreSQL
+      - Oracle SQL
+      - SQL Server
 3. Data warehouse and data lakes
+   1. ![image-20220501212521758](https://github.com/YimingXu1/DS-notes/tree/main/DataCamp-DE-Python/img/intro3.png)
 
 
 
