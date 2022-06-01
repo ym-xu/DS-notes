@@ -1,0 +1,3 @@
+[submodule "brane-trainandpredict"]
+	path = brane-trainandpredict
+	url = https://github.com/YimingXu1/brane-trainandpredict.git
